@@ -1,0 +1,21 @@
+parse error: Invalid numeric literal at line 2, column 3
+parse error: Invalid numeric literal at line 2, column 3
+parse error: Invalid numeric literal at line 2, column 3
+parse error: Invalid numeric literal at line 2, column 3
+
+An error occurred (AccessDenied) when calling the GetBucketLocation operation: Access Denied
+
+An error occurred (AccessDenied) when calling the GetBucketLocation operation: Access Denied
+
+An error occurred (InvalidInstanceID.NotFound) when calling the DescribeInstanceAttribute operation: The instance ID 'i-0ceb782c83ef36c67' does not exist
+
+An error occurred (InvalidInstanceID.NotFound) when calling the DescribeInstanceAttribute operation: The instance ID 'i-009354f65bbbc7051' does not exist
+
+An error occurred (AccessDenied) when calling the GetBucketLocation operation: Access Denied
+
+An error occurred (AccessDenied) when calling the GetBucketLocation operation: Access Denied
+parse error: Invalid numeric literal at line 2, column 8
+
+real	1110m37.534s
+user	165m28.855s
+sys	15m41.363s
